@@ -55,65 +55,16 @@ My first Hello World! activity.
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-```sh 
-    sudo apt-get update
-    sudo apt-get upgrade
-    sudo apt-get install git
-    git --version
-```
-
-### Setup
-
-Clone this repository to your desired folder:
-
-
-
-```sh
-  cd my-folder
+- Step 1: Clone this project using this git comand "git clone", (if you don't have git installed please visit
+https://git-scm.com/downloads and install it).
+- Step 2: Once you have installed git you can clone this project using the command below:
+  ```
   git clone https://github.com/danifromecuador/Hello-world
-```
-
-### Install
-
-Install this project with:
-
-
-```sh
-  cd Hello-world  
-```
-
-### Usage
-
-To run the project, execute the following command:
-
-
-```sh
-  code
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-```sh
-  
-```
-
-### Deployment
-
-You can deploy this project using:
-
-
-
-```sh
-
-```
+  ```
+- Step 3: Once you have cloned this repo navigate to the folder that contains 
+the repository.
+- Step 4: If you want to watch the html file open it with your favorite web browser.
+- Step 5: If you want to edit this project open it with your favorite text editor.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
